@@ -67,7 +67,7 @@ def colorize_images(target_path, colorizator, args):
             else:
                 plt.imsave(save_path,plt.imread(file_path))
                 print("color img!: "+str(file_path)+"  COPY!")
-                #continue			
+                continue			
             name, ext = os.path.splitext(image_name)
             image_name = name + '.webp'
             save_path = os.path.join(target_path, image_name)
