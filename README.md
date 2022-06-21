@@ -4,7 +4,7 @@
 
 ## <div align="center"><b><a href="README.md">English</a> | <a href="README_CN.md">简体中文</a></b></div>
 An amazing manga colorization project  |  漫画AI上色
-
+If Manga-Colorization is helpful, please help to ⭐ this repo or recommend it to your friends 😊 <br>
 # New features
 
 - [x] Skip color img just copy to output.
@@ -32,8 +32,6 @@ $ python inference.py -g
 4. Colorized image saved to "./output/"
 
 ---
-
-If Manga-Colorization is helpful, please help to ⭐ this repo or recommend it to your friends 😊 <br>
 
 # Usage of python script
 
