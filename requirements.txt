@@ -1,0 +1,10 @@
+matplotlib==3.0.2
+numpy==1.22.4
+opencv_python==4.4.0.46
+Pillow==9.1.1
+ptflops==0.6.9
+scikit_image==0.14.1
+skimage==0.0
+torch==1.1.0
+torchvision==0.3.0
+~umpy==1.15.4
