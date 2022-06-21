@@ -16,7 +16,7 @@ An amazing manga colorization project  |  漫画AI上色
 
 # 自动着色
 
-1.下载 （generator.pt）(https://cubeatic.com/index.php/s/PcB4WgBnHXEKJrE)。将 'generator.pt' 放在 `./networks/` 中。
+1.下载 [generator.pt](https://cubeatic.com/index.php/s/PcB4WgBnHXEKJrE)。将 'generator.pt' 放在 `./networks/` 中。
 ```bash
 wget https://cubeatic.com/index.php/s/PcB4WgBnHXEKJrE/download -O ./networks/generator.pt
 ```
@@ -79,4 +79,5 @@ optional arguments:
 # 🤗 致谢
 
 基于 https://github.com/qweasdd/manga-colorization-v2
+
 感谢 https://github.com/xinntao/Real-ESRGAN
