@@ -4,6 +4,7 @@
 
 ## <div align="center"><b><a href="README.md">English</a> | <a href="README_CN.md">简体中文</a></b></div>
 An amazing manga colorization project  |  漫画AI上色
+如果 Manga-Colorization 有帮助，请帮忙 ⭐ 这个 repo 或推荐给你的朋友😊 <br>
 
 # 新的功能
 
@@ -32,8 +33,6 @@ $ python inference.py -g
 4.彩色图像保存到“./output/”
 
 ---
-
-如果 Manga-Colorization 有帮助，请帮忙 ⭐ 这个 repo 或推荐给你的朋友😊 <br>
 
 ####其它options
 
