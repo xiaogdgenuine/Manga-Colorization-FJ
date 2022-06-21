@@ -78,4 +78,5 @@ optional arguments:
 ## 🤗 Acknowledgement
 
 Based on https://github.com/qweasdd/manga-colorization-v2
+
 Thx https://github.com/xinntao/Real-ESRGAN
